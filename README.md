@@ -1,16 +1,33 @@
-### Hi there 👋
+# Body Alhoha
+👋 Hi my name is Body Alhoha. I'm developer since my young ages.
+## Currently working on:
+- SignApi
+- Free html web hosting platform
 
-<!--
-**Body-Alhoha/Body-Alhoha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Programming language:
+-HTML
+-CSS
+-JS (NodeJS,Vanilla)
+-C++,C
+-C#
+-Java
+-Python
+-PHP
 
-Here are some ideas to get you started:
+## I want to learn...
+-Assembly
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+French (Native)
+English(Fluent)
+Spanish(Basic)
+
+## Pronouns:
+Him,he
+
+## Blockchain
+
+Monero (XMR) wallet : 48SQSP4eeJDZSt9wx7znrrhL3hdH4DZynGgPUhpVgcTQWMN62dkhXnJ79xqguAzcKxLvuy8Lvxmg1WJDXTgzNzyfC8B7fsx
+
+## Ending
+#### And that was all about me.
