@@ -1,5 +1,5 @@
 # Body Alhoha
-👋 Hi my name is Body Alhoha. I'm developer since my young ages.
+👋 Hi my name is Body Alhoha. I'm developer since when i was young
 ## Currently working on:
 - SignApi
 - Free html web hosting platform
