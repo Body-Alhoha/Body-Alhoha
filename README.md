@@ -1,36 +1,23 @@
-# Body Alhoha
-👋 Hi my name is Body Alhoha. I'm developer since when i was young
-## Currently working on:
-- Ectasy
-- AntiVape
-- DPaste
-- Walbin
+<h1 align="center">Hi 👋, I'm Body</h1>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Body-Alhoha&show_icons=true&icon_color=805AD5&text_color=666666&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=false&hide=contribs)"></p>
 
-## Programming language:
-- HTML
-- CSS
-- JS (NodeJS,Vanilla)
-- C++,C
-- C#
-- Java
-- Python
-- PHP
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Body-Alhoha&show_icons=true&icon_color=805AD5&text_color=666666&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=false&hide=contribs)"></p>
 
-## I want to learn...
-- Assembly
-
-## Languages
-- French (Native)
-- English(Fluent)
-- Spanish(Basic)
-
-## Pronouns:
-- Him
-- He
-
-## Blockchain
-
-- Monero (XMR) wallet : 48SQSP4eeJDZSt9wx7znrrhL3hdH4DZynGgPUhpVgcTQWMN62dkhXnJ79xqguAzcKxLvuy8Lvxmg1WJDXTgzNzyfC8B7fsx
-
-## Ending
-#### And that was all about me.
+```json
+{
+  "discord":{
+    "username":"Body_Alhoha",
+    "discriminator":"1337",
+    "tag":"Body_Alhoha#1337"
+  },
+  "website":"https://bodyalhoha.com",
+  "projects":[
+    {
+      "name":"Ectasy"
+      "links":[
+          "https://discord.gg/ectasy"
+      ]
+    }
+  ]
+}
+```
