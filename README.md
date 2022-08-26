@@ -18,16 +18,16 @@ My projects: <br>
 ```json
 {
   "discord":{
-    "username":"Body_Alhoha",
+    "username":"Body",
     "discriminator":"1337",
-    "tag":"Body_Alhoha#1337"
+    "tag":"Body#1337"
   },
   "website":"https://bodyalhoha.com",
   "projects":[
     {
       "name":"Ectasy"
       "links":[
-          "https://discord.gg/ectasy"
+          "https://ectasy.club"
       ]
     }
   ]
