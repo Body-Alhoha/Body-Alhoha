@@ -7,7 +7,7 @@
 <h1>Me</h1>
 <h2>Text</h2>
 
-My discord : Body#1337<br>
+My discord : Body#0666<br>
 My website : https://bodyalhoha.com<br>
 My projects: <br>
 - https://discord.gg/ectasy
@@ -19,8 +19,8 @@ My projects: <br>
 {
   "discord":{
     "username":"Body",
-    "discriminator":"1337",
-    "tag":"Body#1337"
+    "discriminator":"0666",
+    "tag":"Body#0666"
   },
   "website":"https://bodyalhoha.com",
   "projects":[
