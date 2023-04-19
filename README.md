@@ -19,5 +19,5 @@
 <h2 align="center">Status</h2>
 
 <div align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/819285379982557265?theme=dark&amp;bg=434c5e&amp;animated=true&amp;hideDiscrim=false&amp;borderRadius=30px&amp;idleMessage=Probably%20doing%20something%20else..."> 
+  <img src="https://lanyard-profile-readme.vercel.app/api/1090290071011328050?theme=dark&amp;bg=434c5e&amp;animated=true&amp;hideDiscrim=false&amp;borderRadius=30px&amp;idleMessage=Probably%20doing%20something%20else..."> 
 </div>
