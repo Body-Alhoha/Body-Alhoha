@@ -1,23 +1,13 @@
-<h1 align="center">Hi 👋, I'm Body</h1>
-
-<h2 align="center">Tools</h2>
-
-<p align="center">
-<img src="c.svg" width="32" height="32" alt="C++"/>
-<img src="html5.svg" width="32" height="32" alt="HTML"/>
-<img src="css3.svg" width="32" height="32" alt="CSS" />
-<img src="javascript.svg" width="32" height="32" alt="Javascript" />
-<img src="typescript.svg" width="32" height="32" alt="Typescript" />
-<img src="node-js.svg" width="32" height="32" alt="NodeJS" />
-<img src="csharp.svg" width="32" height="32" alt="C#" />
-<img src="java.svg" width="32" height="32" alt="Java" />
-<img src="python.svg" width="32" height="32" alt="Python" />
-<img src="windows.svg" width="32" height="32" alt="Python" />
-</p>
-
-
-<h2 align="center">Status</h2>
-
-<div align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/1091728544062779452?theme=dark&amp;bg=434c5e&amp;animated=true&amp;hideDiscrim=false&amp;borderRadius=30px&amp;idleMessage=Probably%20doing%20something%20else..."> 
+<h1>Hi 👋</h1>
+<div>
+  <span>I'm body, a 15 years old self taught developer & cybersecurity enthusiast.</span>
 </div>
+<br>
+<img src="https://komarev.com/ghpvc/?username=Body-Alhoha">
+<div>
+<a href="https://discord.com/users/1260988143423848520"><img src="https://img.shields.io/badge/Contact%20me%20on%20Discord-2CA5E0?style=for-the-badge&logo=discord&color=344feb&labelColor=5234eb"></a>
+<a href="https://t.me/bodyalhoha"><img src="https://img.shields.io/badge/Contact%20me%20on%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&labelColor=db44ad&color=5e2775"></a>
+</div>
+<br>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
