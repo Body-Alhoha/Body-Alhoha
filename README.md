@@ -1,6 +1,6 @@
 <h1>Hi 👋</h1>
 <div>
-  <span>I'm body, a 15 years old self taught developer & cybersecurity enthusiast.</span>
+  <span>I'm body, a 15 year old self-taught developer & cybersecurity enthusiast.</span>
 </div>
 <br>
 <img src="https://komarev.com/ghpvc/?username=Body-Alhoha">
