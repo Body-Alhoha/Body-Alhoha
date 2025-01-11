@@ -9,5 +9,3 @@
 <a href="https://t.me/bodyalhoha"><img src="https://img.shields.io/badge/Contact%20me%20on%20Telegram-2CA5E0?style=for-the-badge&logo=telegram&labelColor=db44ad&color=5e2775"></a>
 </div>
 <br>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
