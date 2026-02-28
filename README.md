@@ -16,9 +16,7 @@
   </p>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=Body-Alhoha&title_color=000000&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=000000&hide_title=true&count_private=false" />
-</p>
 
 ![header](assets/footer.png)
+
 
